@@ -1,0 +1,13 @@
+dist
+node_modules
+.yarn
+coverage
+.docusaurus
+__fixtures__
+.history
+website/i18n
+website/versions.json
+sidebars.js
+docs/Commands.mdx
+docs/Playing a song.mdx
+build
