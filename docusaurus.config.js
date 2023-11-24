@@ -37,7 +37,7 @@ const config = {
           blogDescription: 'The ramblings of the Developers @ Mewwme`s',
           feedOptions: {
             type: 'all',
-            copyright: `Copyright © ${new Date().getFullYear()} Acoustic`,
+            copyright: `Copyright © ${new Date().getFullYear()} Mewwme's`,
           },
           showReadingTime: true,
           editUrl: 'https://github.com/mewwme/docs/',
