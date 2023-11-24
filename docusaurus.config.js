@@ -89,8 +89,12 @@ const config = {
             title: 'Stay In The Loop ',
             items: [
               {
-                label: 'Discord',
-                to: 'https://mewwme.is-a.fun/discord',
+                label: 'Server Support',
+                to: 'https://mewwme.is-a.fun/support',
+              },
+              {
+                label: 'Invite',
+                to: 'https://mewwme.is-a.fun/invite',
               },
               {
                 label: 'Sponsor',
@@ -106,6 +110,10 @@ const config = {
                 to: 'https://hosting.mangex.pro/',
               },
               {
+                label: 'Oh!BOTLiST',
+                to: 'https://ohbotlist.is-a.fun/',
+              },
+              {
                 label: 'YouTube',
                 to: 'https://www.youtube.com/@soniaoctarini/',
               },
@@ -115,8 +123,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Status',
-                to: 'https://status.mewwme.is-a.fun',
+                label: 'Beranda',
+                to: 'https://mewwme.is-a.fun',
               },
               {
                 label: 'Privacy Policy',
